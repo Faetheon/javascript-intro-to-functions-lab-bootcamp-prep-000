@@ -1,4 +1,4 @@
 function shout(args) {
-  args.toUpperCase();
+  args.splice().toUpperCase().;
   return args;
 }
